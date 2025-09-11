@@ -1,0 +1,11 @@
+/Users/dylan/repo/dylan/dotnet/ticketing-async/Ticketing.Shared/bin/Debug/net8.0/Ticketing.Shared.deps.json
+/Users/dylan/repo/dylan/dotnet/ticketing-async/Ticketing.Shared/bin/Debug/net8.0/Ticketing.Shared.dll
+/Users/dylan/repo/dylan/dotnet/ticketing-async/Ticketing.Shared/bin/Debug/net8.0/Ticketing.Shared.pdb
+/Users/dylan/repo/dylan/dotnet/ticketing-async/Ticketing.Shared/obj/Debug/net8.0/Ticketing.Shared.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dylan/repo/dylan/dotnet/ticketing-async/Ticketing.Shared/obj/Debug/net8.0/Ticketing.Shared.AssemblyInfoInputs.cache
+/Users/dylan/repo/dylan/dotnet/ticketing-async/Ticketing.Shared/obj/Debug/net8.0/Ticketing.Shared.AssemblyInfo.cs
+/Users/dylan/repo/dylan/dotnet/ticketing-async/Ticketing.Shared/obj/Debug/net8.0/Ticketing.Shared.csproj.CoreCompileInputs.cache
+/Users/dylan/repo/dylan/dotnet/ticketing-async/Ticketing.Shared/obj/Debug/net8.0/Ticketing.Shared.dll
+/Users/dylan/repo/dylan/dotnet/ticketing-async/Ticketing.Shared/obj/Debug/net8.0/refint/Ticketing.Shared.dll
+/Users/dylan/repo/dylan/dotnet/ticketing-async/Ticketing.Shared/obj/Debug/net8.0/Ticketing.Shared.pdb
+/Users/dylan/repo/dylan/dotnet/ticketing-async/Ticketing.Shared/obj/Debug/net8.0/ref/Ticketing.Shared.dll

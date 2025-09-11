@@ -1,0 +1,12 @@
+/Users/dylan/repo/dylan/dotnet/ticketing-async/Ticketing.Persistence/bin/Debug/net8.0/Ticketing.Persistence.deps.json
+/Users/dylan/repo/dylan/dotnet/ticketing-async/Ticketing.Persistence/bin/Debug/net8.0/Ticketing.Persistence.dll
+/Users/dylan/repo/dylan/dotnet/ticketing-async/Ticketing.Persistence/bin/Debug/net8.0/Ticketing.Persistence.pdb
+/Users/dylan/repo/dylan/dotnet/ticketing-async/Ticketing.Persistence/obj/Debug/net8.0/Ticketing.Persistence.csproj.AssemblyReference.cache
+/Users/dylan/repo/dylan/dotnet/ticketing-async/Ticketing.Persistence/obj/Debug/net8.0/Ticketing.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dylan/repo/dylan/dotnet/ticketing-async/Ticketing.Persistence/obj/Debug/net8.0/Ticketing.Persistence.AssemblyInfoInputs.cache
+/Users/dylan/repo/dylan/dotnet/ticketing-async/Ticketing.Persistence/obj/Debug/net8.0/Ticketing.Persistence.AssemblyInfo.cs
+/Users/dylan/repo/dylan/dotnet/ticketing-async/Ticketing.Persistence/obj/Debug/net8.0/Ticketing.Persistence.csproj.CoreCompileInputs.cache
+/Users/dylan/repo/dylan/dotnet/ticketing-async/Ticketing.Persistence/obj/Debug/net8.0/Ticketing.Persistence.dll
+/Users/dylan/repo/dylan/dotnet/ticketing-async/Ticketing.Persistence/obj/Debug/net8.0/refint/Ticketing.Persistence.dll
+/Users/dylan/repo/dylan/dotnet/ticketing-async/Ticketing.Persistence/obj/Debug/net8.0/Ticketing.Persistence.pdb
+/Users/dylan/repo/dylan/dotnet/ticketing-async/Ticketing.Persistence/obj/Debug/net8.0/ref/Ticketing.Persistence.dll

@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ticketing.Shared", "Ticketing.Shared\Ticketing.Shared.csproj", "{C039D383-3C19-4B13-B913-C96496CB9F0C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ticketing.Reservation.Api", "Ticketing.Reservation.Api\Ticketing.Reservation.Api.csproj", "{FB7424D7-7588-479F-9A32-AB3EE3F4F2A8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ticketing.Reservation.Worker", "Ticketing.Reservation.Worker\Ticketing.Reservation.Worker.csproj", "{CFECBD58-71AC-404F-A809-2E9C47C12CCF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ticketing.Persistence", "Ticketing.Persistence\Ticketing.Persistence.csproj", "{DA6E53B0-E3CB-49B8-8C43-204C4D0E5F96}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C039D383-3C19-4B13-B913-C96496CB9F0C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C039D383-3C19-4B13-B913-C96496CB9F0C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C039D383-3C19-4B13-B913-C96496CB9F0C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C039D383-3C19-4B13-B913-C96496CB9F0C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FB7424D7-7588-479F-9A32-AB3EE3F4F2A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB7424D7-7588-479F-9A32-AB3EE3F4F2A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB7424D7-7588-479F-9A32-AB3EE3F4F2A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB7424D7-7588-479F-9A32-AB3EE3F4F2A8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CFECBD58-71AC-404F-A809-2E9C47C12CCF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CFECBD58-71AC-404F-A809-2E9C47C12CCF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CFECBD58-71AC-404F-A809-2E9C47C12CCF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CFECBD58-71AC-404F-A809-2E9C47C12CCF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DA6E53B0-E3CB-49B8-8C43-204C4D0E5F96}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA6E53B0-E3CB-49B8-8C43-204C4D0E5F96}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA6E53B0-E3CB-49B8-8C43-204C4D0E5F96}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA6E53B0-E3CB-49B8-8C43-204C4D0E5F96}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

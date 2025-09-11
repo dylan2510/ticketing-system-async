@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "GyK6RL/YeKNJK3qfL7zVjADNBz8Bd+qKsfR5bWftkf8=",
+  "Source": "Ticketing.Reservation.Api",
+  "BasePath": "_content/Ticketing.Reservation.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
